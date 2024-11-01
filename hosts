@@ -1,0 +1,2 @@
+[testnodes]
+new-hostname ansible_ssh_host=172.31.42.232 ansible_ssh_user=ansibleadmin
