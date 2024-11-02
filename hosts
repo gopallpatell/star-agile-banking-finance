@@ -1,2 +1,2 @@
 [testnodes]
-new-hostname ansible_ssh_host=10.0.1.237 ansible_ssh_user=testadmin
+testserver1 ansible_ssh_host=10.0.1.237 ansible_ssh_user=testadmin
